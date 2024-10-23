@@ -1,4 +1,4 @@
-# Rule Engine Application
+# Rule Engine Application with AST
 
 This project is a simple 3-tier Rule Engine Application designed to determine user eligibility based on attributes such as age, salary, department, etc., using an Abstract Syntax Tree (AST). The application allows users to create, combine, evaluate, modify, and delete rules. 
 
